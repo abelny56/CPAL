@@ -48,6 +48,9 @@ pip install -r requirements.txt
 
 <img src=./pic/image-5.png width=450>
 
+## Models
+
+[Models](https://drive.google.com/drive/folders/1i56FPHEnFeYR-MrOf_du2hXXvSyUk0Zw?usp=sharing) (Google Drive)
 
 ## Data
 
