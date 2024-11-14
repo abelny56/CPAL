@@ -1,6 +1,6 @@
 # CPAL
 
-This project provides the code and results for 'CPAL: Cross-Prompting Agent of Large Vision Model for Multi-Modal Semantic Segmentation'
+This project provides the code and results for 'CPAL: Cross-Prompting Adapter of Large Vision Foundation Model for Multi-Modal Semantic Segmentation'
 
 The source code will be released upon publication.
 
