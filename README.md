@@ -9,45 +9,9 @@ conda activate cpal
  - Install CUDA>=10.2 with cudnn>=7
  - Install PyTorch>=1.10.0 and torchvision>=0.9.0 with CUDA>=10.2
 
-# Multi-modal Semantic Segmentation Performance
-
-## RGB-D
-### NYU-Depth v2 and SUN-RGBD
-
-<img src=./pic/image-1.png width=850>
-
-<img src=./pic/image.png width=850>
-
-## RGB-T
-### FMB
-
-<img src=./pic/image-2.png width=450>
-
-<img src=./pic/image-7.png width=450>
-
-### PST900
-
-<img src=./pic/image-3.png width=850>
-
-<img src=./pic/image-6.png width=850>
-
-## RGB-E
-### DDD17
-
-<img src=./pic/image-4.png width=450>
-
-## Multi-modal VOS
-### MVseg
-
-<img src=./pic/image-5.png width=450>
-
-## RGB-D Salient Object Detection
-
-<img src=./pic/image-8.png width=850>
-
 ## Models
 
-[Models](https://drive.google.com/drive/folders/1i56FPHEnFeYR-MrOf_du2hXXvSyUk0Zw?usp=sharing) (Google Drive)
+[Models](https://njupteducn-my.sharepoint.com/:f:/g/personal/1223055916_njupt_edu_cn/ElbL2uJLmMhDk6C5z454CWkBDkIBCNWULN_x-AKCvcfYdw?e=f0Wq0O) (OneDrive)
 
 ## Data
 
