@@ -5,8 +5,6 @@
 ```
 conda create -n cpal python=3.7 -y
 conda activate cpal
-
-pip install -r requirements.txt
 ```
  - Install CUDA>=10.2 with cudnn>=7
  - Install PyTorch>=1.10.0 and torchvision>=0.9.0 with CUDA>=10.2
